@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Vegan Mode
+This RuneLite plugin delivers a community-polled vegan experience…with a twist!

@@ -1,11 +1,11 @@
-package com.example;
+package net.raumeo.veganmode;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("example")
-public interface ExampleConfig extends Config
+@ConfigGroup("veganmode")
+public interface VeganModeConfig extends Config
 {
 	@ConfigItem(
 		keyName = "greeting",
